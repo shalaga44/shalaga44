@@ -25,7 +25,6 @@ val Shalaga44 = human {
     }
 }
 ```
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalaga44&layout=compact)
 <!--
 **shalaga44/shalaga44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
