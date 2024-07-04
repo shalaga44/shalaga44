@@ -25,7 +25,7 @@ val Shalaga44 = human {
     }
 }
 ```
-
+![](https://komarev.com/ghpvc/?username=shalaga44&abbreviated=true&color=blueviolet&label=your+beautiful+eyes+counter)
 <!--
 **shalaga44/shalaga44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
