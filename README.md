@@ -19,9 +19,11 @@ val Shalaga44 = human {
         //creating("dark-memes")
     }
     contacts {
-        // doesn't use social media
-        email = "shalaga44@e.email"
-        telegram = "t.me/shalaga44"
+        mutex.withLock {
+            // doesn't use social media
+            email = "shalaga44@e.email"
+            telegram = "t.me/shalaga44"
+        }
     }
 }
 ```
